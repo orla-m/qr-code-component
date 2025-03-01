@@ -20,7 +20,7 @@ QR code component challenge
 
 ### Screenshot
 
-![my solution](./screenshot.jpg)
+![my solution](./screenshot.png)
 
 
 ### Links
